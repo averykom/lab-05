@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Avery Komarnicki
+- **CCID:** komarni1
 
 ## References and Resources
 
